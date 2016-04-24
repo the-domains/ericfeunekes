@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T21:34:55.986Z'
-dateModified: '2016-04-24T21:30:14.199Z'
+datePublished: '2016-04-24T21:35:39.229Z'
+dateModified: '2016-04-24T21:35:05.919Z'
 title: Types of relationships
 author: []
 sourcePath: _posts/2016-04-24-types-of-relationships.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 __
+
+# Good Faith: A Revolution in Canadian Contract Law
 
 __I would love to take credit for this work but it was written as an MBA class assignment so credit has to go to my team: Heidi Erdle, Vivi Luo, Chenchen Yu, Ryan Campbell, Darren Clark, and Joe Turgeon. This version is adapted in style to fit with my blog.__
 
@@ -113,6 +115,11 @@ That being said, nothing is certain in litigation. This is our interpretation bu
 
 A good way to think about this is a quote from your parents: "**If you have to ask, the answer is no**."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7303c4a-e7e2-47cb-b515-41ca2fe693f9.jpg)
+
+  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebbd1590-f0ff-4bb6-805f-dfdeba5ed808.jpg)
+
+  
+
 
 [0]: http://www.canlii.org/en/ca/scc/doc/2014/2014scc71/2014scc71.html
