@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'At some point in the start-up journey, likely when you start thinking about raising money, you’ll hear about accredited investors; maybe it’s from a lawyer or accountant you’re working with or perhaps a mentor or co-founder. They’ll say you need to find accredited investors, only accredited investors can invest.'
-datePublished: '2016-04-24T20:41:17.308Z'
-dateModified: '2016-04-24T20:40:43.942Z'
+datePublished: '2016-04-24T21:18:54.135Z'
+dateModified: '2016-04-24T21:18:26.698Z'
+title: What is an Accredited Investor and where do I find one?
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: The Prospectus.
-author: []
 starred: false
 sourcePath: _posts/2016-04-24-the-prospectus.md
 published: true
@@ -22,6 +22,10 @@ url: the-prospectus/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0654d7e2-eb1d-4762-a54a-024485df0e40.jpg)
+
+# What is an Accredited Investor and where do I find one?
+
 At some point in the start-up journey, likely when you start thinking about raising money, you'll hear about accredited investors; maybe it's from a lawyer or accountant you're working with or perhaps a mentor or co-founder. They'll say you need to find accredited investors, only accredited investors can invest.
 
 The first time I heard this I thought "well how does one become accredited? Is it a course or certification of some kind?" The answer is none of these.
@@ -80,7 +84,7 @@ The offering memorandum exemption like a mini-prospectus that allows_anyone_to i
 
 Because the offering memorandum allows anyone to invest, it is used in situations where you don't want to worry about investors meeting certain pre-requisites and you want to distribute to a large number of people. Note, however, that the requirements are slightly different in the provinces. For example, some provinces place a limit on the amount that can be invested if the investor isn't an "eligible investor," essentially bringing back the investor requirements. 
 
-# Private Issuer Status
+## Private Issuer Status
 
 Although technically an exemption of its own, the private issuer exemption is more of a catch-all because it allows the company to receive investment from a long list of people that usually have their own exemptions anyways. Accredited investors, friends and family, officers, directors and employees are just a few.
 
