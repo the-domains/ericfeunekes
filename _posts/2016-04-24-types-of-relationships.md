@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T21:35:39.229Z'
-dateModified: '2016-04-24T21:35:05.919Z'
+datePublished: '2016-04-24T21:37:40.723Z'
+dateModified: '2016-04-24T21:37:23.713Z'
 title: Types of relationships
 author: []
 sourcePath: _posts/2016-04-24-types-of-relationships.md
@@ -39,17 +39,11 @@ We need to examine situations where courts have already established a duty of go
 
 There are two ways to look at this: with a strict interpretation we would apply good faith only in the same type of situation as it has been applied before; in a wider sense we would look at the types of breach that actually occurred, categorize them, and try to apply these too a wider variety of situations. If you haven't guessed it is the second interpretation that we chose to adopt -- the Supreme Court would not have gone to this much trouble if they just intended to confirm what was already done.
 
-Canadian cases have defined good faith in many ways, but generally, good faith can only be defined by what it is not; that is,
-
-**not acting in a way, without justification, that would substantially nullify the objective or benefit that was bargained for by either party**
-
-. This is the principle that organizes other contractual duties. We've identified two duties and the Supreme Court established a third in Bhasin. The Supreme Court also said that the level of good faith required can be varied in a contract and we found that this was reflected in the precedent -- different types of relationships require varying levels of good faith. We identified three types of relationship.
+Canadian cases have defined good faith in many ways, but generally, good faith can only be defined by what it is not; that is, **not acting in a way, without justification, that would substantially nullify the objective or benefit that was bargained for by either party**. This is the principle that organizes other contractual duties. We've identified two duties and the Supreme Court established a third in Bhasin. The Supreme Court also said that the level of good faith required can be varied in a contract and we found that this was reflected in the precedent -- different types of relationships require varying levels of good faith. We identified three types of relationship.
 
 ## Good Faith Performance of Obligations
 
-The duty to perform contractual obligations in good faith looks at the way a party to a contract carries out the duties required by a contract. It requires that you
-
-**carry out contractual obligations in a way that will be most likely to give effect to the intentions of the contracting parties.**
+The duty to perform contractual obligations in good faith looks at the way a party to a contract carries out the duties required by a contract. It requires that you carry out contractual obligations in a way that will be most likely to give effect to the intentions of the contracting parties.
 
 Furthermore, if there is something that needs to happen for the contract to work and you are the only one who can do it, even if the contract doesn't require you to do so, you must do it.
 
@@ -105,7 +99,7 @@ of contracts in relation to good faith. Good faith
 
 is a claim for breach of contract; therefore, prior to executing a contract there cannot be a good faith requirement. Negotiation takes place before a contract is executed so good faith should not apply -- Bhasin did not create any new requirements for negotiating. This latter point is important because this also doesn't necessarily mean you are allowed to lie during negotiations, there are still breaches in tort (e.g. misrepresentation) that may be brought against someone who makes a false statement.
 
-The important point is**there are no_new_obligations imposed on parties during negotiation**as a result of Bhasin**.**
+The important point isthere are no_new_obligations imposed on parties during negotiationas a result of Bhasin.
 
 # How do I use all this?
 
@@ -113,13 +107,6 @@ You know the difference between right and wrong. Don't try to use 'loopholes' to
 
 That being said, nothing is certain in litigation. This is our interpretation but what's really important is how judges interpret it in the future; all we can do is wait and see.
 
-A good way to think about this is a quote from your parents: "**If you have to ask, the answer is no**."
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7303c4a-e7e2-47cb-b515-41ca2fe693f9.jpg)
-
-  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebbd1590-f0ff-4bb6-805f-dfdeba5ed808.jpg)
-
-  
-
+A good way to think about this is a quote from your parents: "If you have to ask, the answer is no."
 
 [0]: http://www.canlii.org/en/ca/scc/doc/2014/2014scc71/2014scc71.html
