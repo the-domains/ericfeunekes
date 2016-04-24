@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ericfeunekes]]></title>
-        <description><![CDATA[ericfeunekes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[start-ups and law]]></title>
+        <description><![CDATA[start-ups and law]]></description>
+        <link>https://thegrid.ai/ericfeunekes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 20:41:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 21:18:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ericfeunekes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The Prospectus.]]></title>
-            <description><![CDATA[<article><h1>The Prospectus.</h1><h2>Accredited Investors</h2><p>At some point in the start-up journey, likely when you start thinking about raising money, you’ll hear about accredited investors; maybe it’s from a lawyer or accountant you’re working with or perhaps a mentor or co-founder. They’ll say you need to find accredited investors, only accredited investors can invest.</p></article>]]></description>
-            <link>undefinedthe-prospectus/index.html</link>
+            <title><![CDATA[What is an Accredited Investor and where do I find one?]]></title>
+            <description><![CDATA[<article><h1>What is an Accredited Investor and where do I find one?</h1><h2>Accredited Investors</h2><p>At some point in the start-up journey, likely when you start thinking about raising money, you’ll hear about accredited investors; maybe it’s from a lawyer or accountant you’re working with or perhaps a mentor or co-founder. They’ll say you need to find accredited investors, only accredited investors can invest.</p></article>]]></description>
+            <link>https://thegrid.ai/ericfeunekes/the-prospectus/index.html</link>
             <guid isPermaLink="false">f08e5c1b-ad65-4792-a76a-fa1d83454188</guid>
-            <pubDate>Sun, 24 Apr 2016 20:41:17 GMT</pubDate>
+            <pubDate>Sun, 24 Apr 2016 21:18:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
