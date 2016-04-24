@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T21:30:08.797Z'
-dateModified: '2016-04-24T21:29:37.243Z'
+datePublished: '2016-04-24T21:34:55.986Z'
+dateModified: '2016-04-24T21:30:14.199Z'
 title: Types of relationships
 author: []
+sourcePath: _posts/2016-04-24-types-of-relationships.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-types-of-relationships.md
-published: true
 url: types-of-relationships/index.html
 _type: Article
 
@@ -27,7 +27,6 @@ __
 __I would love to take credit for this work but it was written as an MBA class assignment so credit has to go to my team: Heidi Erdle, Vivi Luo, Chenchen Yu, Ryan Campbell, Darren Clark, and Joe Turgeon. This version is adapted in style to fit with my blog.__
 
 _---------_
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95a7f934-7f08-4dfc-adcb-0203978fd7db.jpg)
 
 The Supreme Court of Canada (SCC) in Bhasin v Hrynew (Bhasin) recently recognized "an organizing principle of good faith."
@@ -44,9 +43,7 @@ Canadian cases have defined good faith in many ways, but generally, good faith c
 
 . This is the principle that organizes other contractual duties. We've identified two duties and the Supreme Court established a third in Bhasin. The Supreme Court also said that the level of good faith required can be varied in a contract and we found that this was reflected in the precedent -- different types of relationships require varying levels of good faith. We identified three types of relationship.
 
-## 
-
-Good Faith Performance of Obligations
+## Good Faith Performance of Obligations
 
 The duty to perform contractual obligations in good faith looks at the way a party to a contract carries out the duties required by a contract. It requires that you
 
