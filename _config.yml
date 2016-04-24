@@ -1,7 +1,7 @@
 name: ericfeunekes
 favicon: null
-layout_spectrum: 0.8958007504697889
-typography_spectrum: 0.4994760765694082
+layout_spectrum: 0.24902
+typography_spectrum: 0.36081
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6173892647493631
-  lightness: 0.6045392896048725
-  saturation: 0.9893359907437116
-  rhythmicContrast: 0.860249754274264
+    - '#f30044'
+    - '#78b8ff'
+    - '#1f2186'
+    - '#ffffff'
+    - '#444444'
+  brandStrength: 0.625
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
