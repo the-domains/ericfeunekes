@@ -1,41 +1,41 @@
-name: ericfeunekes
-favicon: null
-layout_spectrum: 0.66634
-typography_spectrum: 0.9354839
 title: start-ups and law
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.8575042
+  brandStrength: 0.8102867
+  lightness: 0.7759857
   brandColors:
     - '#f30044'
     - '#78b8ff'
     - '#1f2186'
     - '#ffffff'
     - '#444444'
-  brandStrength: 0.75
-  lightness: 0.7759857
-  saturation: 0.625
   rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: ericfeunekes
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9354839
+layout_spectrum: 0.7251265
