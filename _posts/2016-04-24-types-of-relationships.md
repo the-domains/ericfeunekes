@@ -1,22 +1,22 @@
 ---
-description: 'I would love to take credit for this work but it was written as an MBA class assignment so credit has to go to my team: Heidi Erdle, Vivi Luo, Chenchen Yu, Ryan Campbell, Darren Clark, and Joe Turgeon. This version is adapted in style to fit with my blog.'
-datePublished: '2016-04-24T22:52:56.363Z'
+inFeed: true
+hasPage: true
 inNav: false
 inLanguage: null
+keywords: []
+description: 'I would love to take credit for this work but it was written as an MBA class assignment so credit has to go to my team: Heidi Erdle, Vivi Luo, Chenchen Yu, Ryan Campbell, Darren Clark, and Joe Turgeon. This version is adapted in style to fit with my blog.'
+datePublished: '2016-04-28T01:12:08.536Z'
+dateModified: '2016-04-28T01:11:32.021Z'
 author: []
 sourcePath: _posts/2016-04-24-types-of-relationships.md
-hasPage: true
 published: true
-authors: []
 title: Good Faith Performance of Obligations
+authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
-keywords: []
-dateModified: '2016-04-24T22:51:59.946Z'
-inFeed: true
+  favicon: null
 starred: false
 url: good-faith-performance-of-obligations/index.html
 _type: Article
