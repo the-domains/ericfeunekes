@@ -1,8 +1,34 @@
-name: ericfeunekes
-favicon: null
-layout_spectrum: 0.93361
 typography_spectrum: 0.26258
-title: start-ups and law
+color:
+  brandColors:
+    - '#ffffff'
+    - '#455a64'
+    - '#ff5722'
+    - '#aca9b0'
+    - '#ac3f25'
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.93361
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Eric Feunekes
+  email: eric.feunekes@mcinnescooper.com
+  url: 'https://twitter.com/ericfeunekes'
+name: Eric Feunekes
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#455a64'
-    - '#ff5722'
-    - '#aca9b0'
-    - '#ac3f25'
-  brandStrength: 0.25
-  lightness: 0.625
-  saturation: 0.375
-  rhythmicContrast: 1
+title: start-ups and law
 purpose: []
